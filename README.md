@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # isa-clarity-clone
     "gsap": "^3.13.0",     "vue": "^3.2.13",
-=======
+
 # isa-charity-clone
 
 ## Project setup
@@ -23,7 +23,10 @@ npm run build
 ```
 npm run lint
 ```
-
+### gsap
+```
+npm install gsap
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> d02992f (first commit)
+
